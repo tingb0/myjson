@@ -1,2 +1,2 @@
 # myjson
-this is a study project of json
+C项目练习，以
